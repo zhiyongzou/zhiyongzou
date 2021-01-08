@@ -11,3 +11,5 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![stats](https://github-readme-stats.vercel.app/api?username=zhiyongzou&show_icons=true&theme=light&show_icons=1)
 ![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiyongzou&theme=light&hide_langs_below=0&layout=compact)
+
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=zhiyongzou.zhiyongzou)
