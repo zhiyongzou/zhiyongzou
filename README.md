@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on iRead
 - 🌱 I’m currently learning Swift/Shell/Ruby
 - 👯 I’m looking to collaborate on open source project
-- 📫 How to reach me: scauzouzhiyong@163.com
+- 📫 How to reach me: 2092964965@qq.com
 
 ---
 
